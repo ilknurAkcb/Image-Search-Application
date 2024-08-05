@@ -47,7 +47,6 @@ def install_packages():
 
 # Paketleri yükle
 install_packages()
-"""
 
 
 
